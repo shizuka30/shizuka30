@@ -105,7 +105,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍏 Food Spoilage Prediction System
+###  🍊 Orange Defect Detection System
 
 * Machine Learning solution for spoilage percentage prediction
 * Data preprocessing, feature engineering, model training
@@ -156,15 +156,15 @@ Research Areas:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shizuka30&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shizuka30&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizuka30&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -187,6 +187,6 @@ Research Areas:
 
 ### Thanks for visiting my profile! ⭐
 
-"Turning ideas into intelligent systems through AI."
+Turning ideas into intelligent systems through AI.
 
 </div>
